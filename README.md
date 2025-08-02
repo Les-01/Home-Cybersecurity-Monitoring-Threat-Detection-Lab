@@ -108,3 +108,6 @@ Key Outcomes
     Handled a real-world intrusion attempt and executed a full incident response
 
 This project was developed independently to enhance practical cybersecurity skills and demonstrate end-to-end threat monitoring and incident response capabilities in a controlled lab environment.
+
+------------------------------  ADDITIONAL NOTE  ------------------------------  ADDITIONAL NOTE  ------------------------------  ADDITIONAL NOTE  ------------------------------
+Due to GitHubs file upload and storage limitations I am unable to upload the virtual machines containing the operating systems that comprise the SOC lab itself.
